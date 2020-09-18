@@ -1,8 +1,0 @@
-﻿  stdafx.cpp
-  FileOperation.cpp
-  GDS_Generator.cpp
-  Generating code
-  Previous IPDB not found, fall back to full compilation.
-  All 278 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  GDS_Generator.vcxproj -> C:\Users\c14804a\OneDrive - EXPERIAN SERVICES CORP\Documents\Visual Studio 2015\Projects\GDS_Generator\Release\GDS_Generator.exe
